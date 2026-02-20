@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, xin chào! I'm Dũng Nguyễn. 👋</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,matlab,octave,sklearn,tensorflow,pytorch,opencv,raspberrypi,git&perline=6" /> </p> 
+</p>
 
 <!--
 **nguyend77/nguyend77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
