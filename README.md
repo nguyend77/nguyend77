@@ -22,7 +22,7 @@
 - **Systems & Tools:** Jupyter Notebook, SageMath, Git, Raspberry Pi
 
 ### Miscellaneous
-One of my many hobbies is competitive programming. Here is profile on Codeforces.  
+A hobby that I have recently taken up is competitive programming. Here is my profile on Codeforces.  
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nd77&theme=default&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/nd77)
 
