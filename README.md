@@ -1,8 +1,8 @@
 <h1 align="center">Hi, xin chào! I'm Dũng Nguyễn. 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyend77/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?"/></a>
-  <a href="https://codeforces.com/profile/nd77" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=nd77"/></a>
+  <a href="https://www.linkedin.com/in/nguyend77/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?"/></a>
+  <a href="https://codeforces.com/profile/nd77"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=nd77"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-white?logo=googlescholar"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Website-white?"/></a>
 </p>
@@ -24,7 +24,7 @@
 ### Miscellaneous
 A hobby that I have recently taken up is competitive programming. Here is my profile on Codeforces.  
 
-<a href="https://codeforces.com/profile/nd77" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=nd77&theme=default&disable_animations=true&show_icons=true&force_username=true"/></a>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nd77&theme=default&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/nd77)
 
 <!--
 **nguyend77/nguyend77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
