@@ -14,7 +14,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,matlab,octave,sklearn,tensorflow,pytorch,opencv,raspberrypi,git&perline=6&theme=light" /> </p> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,matlab,octave,sklearn,tensorflow,pytorch,opencv,raspberrypi,arduino,docker,git&perline=7&theme=light" /> </p> 
 </p>
 
 - **Languages:** C/C++, Python, R, MatLab, Octave, SQL  
