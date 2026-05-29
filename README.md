@@ -26,6 +26,10 @@ A hobby that I have recently taken up is competitive programming. Here is my pro
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nd77&theme=default&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/nd77)
 
+I have also started to practice for technical interviews with LeetCode.
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nd77)](https://leetcode.com/nd77)
+
 <!--
 **nguyend77/nguyend77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
